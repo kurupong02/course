@@ -1,0 +1,7 @@
+export { default as FetchSkeleton } from './FetchSkeleton'
+export { default as CoursesSkeleton } from './CoursesSkeleton'
+export { default as SchoolSkeleton } from './SchoolSkeleton'
+export { default as CertificateSkeleton } from './CertificateSkeleton'
+export { default as AssignmentSkeleton } from './AssignmentSkeleton'
+export { default as CourseDraftSkeleton } from './CourseDraftSkeleton'
+export { default as CourseFormSkeleton } from './CourseFormSkeleton'
