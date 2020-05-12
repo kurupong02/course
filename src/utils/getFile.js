@@ -1,5 +1,5 @@
 const baseURL = process.env.REACT_APP_API_URL
-const container = 'witsawa-classwin'
+const container = ''
 
 const coverImage =
   'https://www.solidbackgrounds.com/images/2560x1600/2560x1600-dark-gray-solid-color-background.jpg'
