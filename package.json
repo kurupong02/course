@@ -13,7 +13,7 @@
     "array-move": "^2.2.1",
     "axios": "^0.19.2",
     "emotion-theming": "^10.0.27",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.1",
